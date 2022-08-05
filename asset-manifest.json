@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.baffe419.css",
-    "main.js": "/static/js/main.0d98c8fe.js",
+    "main.css": "/static/css/main.76c06198.css",
+    "main.js": "/static/js/main.1fb7a032.js",
     "static/js/787.af67c9fa.chunk.js": "/static/js/787.af67c9fa.chunk.js",
+    "static/media/pronunciationModule-comingSoon.png": "/static/media/pronunciationModule-comingSoon.49253920078e55d078a8.png",
+    "static/media/speakEasy-credits.png": "/static/media/speakEasy-credits.1d53965cb02884846ab4.png",
+    "static/media/SpeakEasy-backgroundWave.png": "/static/media/SpeakEasy-backgroundWave.df7d421d1e7efb4c1986.png",
     "index.html": "/index.html",
-    "main.baffe419.css.map": "/static/css/main.baffe419.css.map",
-    "main.0d98c8fe.js.map": "/static/js/main.0d98c8fe.js.map",
+    "main.76c06198.css.map": "/static/css/main.76c06198.css.map",
+    "main.1fb7a032.js.map": "/static/js/main.1fb7a032.js.map",
     "787.af67c9fa.chunk.js.map": "/static/js/787.af67c9fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.baffe419.css",
-    "static/js/main.0d98c8fe.js"
+    "static/css/main.76c06198.css",
+    "static/js/main.1fb7a032.js"
   ]
 }
